@@ -7,7 +7,7 @@ git clone https://github.com/Querzion/bash.dev-suite.git $HOME
 chmod +x -r $HOME/bash.dev-suite
 ```
 ```bash
-sh $HOME/bash.dev-suite/start.sh
+sh $HOME/bash.dev-suite/installer.sh
 ```
 ### This script installs, a small slew of packages. 
   -  vscode
