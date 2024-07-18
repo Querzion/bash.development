@@ -1,13 +1,13 @@
 # bash.dev-suite
 Arch bash script to install some of the development tools that I end up using sometimes. 
 ```bash
-git clone https://github.com/Querzion/bash.dev-suite.git $HOME
+git clone https://github.com/Querzion/bash.development.git $HOME
 ```
 ```bash
-chmod +x -r $HOME/bash.dev-suite
+chmod +x -r $HOME/bash.development
 ```
 ```bash
-sh $HOME/bash.dev-suite/installer.sh
+sh $HOME/bash.development/installer.sh
 ```
 ### This script installs, a small slew of packages. 
   -  vscode
