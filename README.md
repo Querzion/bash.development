@@ -1,4 +1,4 @@
-# bash.dev-suite
+# bash.development
 Arch bash script to install some of the development tools that I end up using sometimes. 
 ```bash
 git clone https://github.com/Querzion/bash.development.git $HOME
